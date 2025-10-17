@@ -1,0 +1,7 @@
+[package]
+name = "compile-hashsig-to-risc0"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hashsig = { git = "https://github.com/b-wagn/hash-sig", rev = "1ed8d820636a2f34c1340e5748b90d3e03df556a" }
